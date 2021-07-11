@@ -1,0 +1,11 @@
+name: TestTradeSystemPlugin
+main: com.ttsp.Main
+version: 1.0
+api-version: 1.13
+commands:
+  trade:
+    usage: /trade Player
+    description: trade with player
+  tradetest:
+    usage: /tradetest
+    description: test trade inventory
